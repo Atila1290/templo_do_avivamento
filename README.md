@@ -1,5 +1,5 @@
-## Agência XYZ 😄
-Landing page feito para uma agência fictícia.
+## Templo do avivamento
+Landing page feito para divulgar uma ação social drealizada em uma igreja. Tema proposto pela a minha universidade, a UCB, como projeto de extensão.
 
 ## Tecnologias usadas  😈
 
